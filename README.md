@@ -10,6 +10,6 @@ Contents 內容
 
 ### Medium
 
-1. [Continuous Subarray Sum](./Medium/Continuous Subarray Sum/README.md)
+1. [Continuous Subarray Sum](https://github.com/ms314006/leetCode-track/tree/master/Medium/Continuous%20Subarray%20Sum)
 
 ### Hard
