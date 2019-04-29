@@ -32,6 +32,12 @@ Origin 來源
 
 ***
 
+Solution 解題方法
+-----
+[Solution](https://github.com/ms314006/leetCode-track/blob/master/Medium/Continuous%20Subarray%20Sum/index.js)
+
+***
+
 Result 運行結果
 -----
 ![Alt text](./Result.png)
